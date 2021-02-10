@@ -5,10 +5,12 @@
 
 #### Soal jawaban
 1. Berikan penjelasan dari perbedaan linear layout, relative layout, dan constrain layout.
-   Jawab : linear layout merupakan layout yang memberikan tata letak secara garis lurus, baik horizontal maupun vertikal
-           relative layout merupakan layout yang tata letaknya relatif atau bisa diatur sendiri
-           constrain layout merupakan layout yang memiliki tata letak lebih fleksibel dibandingkan relative layout
+Jawab : 
+- linear layout merupakan layout yang memberikan tata letak secara garis lurus, baik horizontal maupun vertikal
+- relative layout merupakan layout yang tata letaknya relatif atau bisa diatur sendiri
+- constrain layout merupakan layout yang memiliki tata letak lebih fleksibel dibandingkan relative layout
 
 2. Jelaskan method onCreate dan onPause pada activity
-   Jawab : method onCreate merupakan method yang tercipta pertama kali saat activity dibuat, pada method ini terdapat proses inisialisasi seperti view,list data dan lain lain
-           method onPause terjadi saat sistem memanggil activity lain dan activity tersebut tidak lagi di latar depan dan sistem sementara menjeda activity yang berada onPause namun tidak menghentikan activity tersebut 
+Jawab : 
+- method onCreate merupakan method yang tercipta pertama kali saat activity dibuat, pada method ini terdapat proses inisialisasi seperti view,list data dan lain lain
+- method onPause terjadi saat sistem memanggil activity lain dan activity tersebut tidak lagi di latar depan dan sistem sementara menjeda activity yang berada onPause namun tidak menghentikan activity tersebut 
